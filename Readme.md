@@ -8,21 +8,17 @@ Follow the steps described below:
 
 ### Installation
 
-$ pip install flask-share
+<p>$ pip install REDISO</p>
 
 ### Initialize
 
-from flask_share import Share
-...
-share = Share(app)
-
-### Example
-
-Here is a simple demo to demonstrate how to create a share component in template:
+<p>from flask_share import Share</p>
+<p>...</p>
+<p>share = Share(app)</p>
 
 ## Screenshot
 
-![flask-share demo](images/demo.png)
+![REDISO demo](images/demo.png)
 
 ## License
 

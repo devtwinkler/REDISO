@@ -1,5 +1,5 @@
 """
-    Flask-Share
+    REDISO
     ~~~~~~~~~~~~~~
     Create social share component in Jinja2 template based on share.js.
 
@@ -19,9 +19,9 @@ with open(path.join(basedir, 'README.md'), encoding='utf-8') as f:
 
 
 setup(
-    name='Flask-Share',
+    name='REDISO',
     version='0.1.1',
-    url='https://github.com/greyli/flask-share',
+    url='https://github.com/greyli/REDISO',
     license='MIT',
     author='Grey Li',
     author_email='withlihui@gmail.com',

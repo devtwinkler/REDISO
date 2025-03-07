@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Flask-Share'
+project = u'REDISO'
 copyright = u'2018, Grey Li'
 author = u'Grey Li'
 
@@ -86,7 +86,7 @@ html_theme = 'flask_small'
 html_theme_options = {
     # 'github_user': 'greyli',
     'index_logo': '',
-    'github_fork': 'greyli/flask-share',
+    'github_fork': 'greyli/REDISO',
     # 'description': 'Create social share component in Jinja2 template based on share.js.',
 }
 
@@ -107,7 +107,7 @@ html_theme_path = ['_themes']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Flask-Sharedoc'
+htmlhelp_basename = 'REDISOdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -134,7 +134,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Flask-Share.tex', u'Flask-Share Documentation',
+    (master_doc, 'REDISO.tex', u'REDISO Documentation',
      u'Grey Li', 'manual'),
 ]
 
@@ -144,7 +144,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'flask-share', u'Flask-Share Documentation',
+    (master_doc, 'REDISO', u'REDISO Documentation',
      [author], 1)
 ]
 
@@ -155,8 +155,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Flask-Share', u'Flask-Share Documentation',
-     author, 'Flask-Share', 'One line description of project.',
+    (master_doc, 'REDISO', u'REDISO Documentation',
+     author, 'REDISO', 'One line description of project.',
      'Miscellaneous'),
 ]
 
