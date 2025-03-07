@@ -1,7 +1,6 @@
-# Flask-Share
+# REDISO
 
-Create social share component in Jinja2 template based
-on [share.js](https://github.com/overtrue/share.js/).
+Create social share component in Jinja2 template.
 
 ## Links
 
