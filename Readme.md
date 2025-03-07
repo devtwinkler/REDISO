@@ -2,6 +2,10 @@
 
 Create social share component in Jinja2 template.
 
+## Author
+
+<p>Krasiuk Oleksii</p>
+
 ## USage
 
 Follow the steps described below:
@@ -10,11 +14,16 @@ Follow the steps described below:
 
 <p>$ pip install REDISO</p>
 
+
 ### Initialize
 
 <p>from flask_share import Share</p>
 <p>...</p>
 <p>share = Share(app)</p>
+
+### Development
+
+<p>python setup.py test</p>
 
 ## Screenshot
 
