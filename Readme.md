@@ -4,7 +4,7 @@ Create social share component in Jinja2 template.
 
 ## Author
 
-<p>Krasiuk Oleksii</p>
+<p>Jiners Enoheart (Nickname)</p>
 
 ## USage
 
